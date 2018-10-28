@@ -1,0 +1,18 @@
+
+Turn 8
+================================================================
+warning: owned entities 7, 5 collided on cell (23, 15) as the result of moves on this turn
+At command 4 of 4:
+    2   m 3 n
+    3   m 5 o
+>>> 4   m 7 n
+
+
+Turn 9
+================================================================
+warning: spawn on cell (23, 16) collided with owned entity 1 on that cell
+At command 3 of 3:
+    1   m 1 n
+    2   m 3 o
+>>> 3   g
+
