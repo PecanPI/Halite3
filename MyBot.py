@@ -40,7 +40,6 @@ while True:
     me = game.me
     game_map = game.game_map
 
-
     # A command queue holds all the commands you will run this turn. You build this list up and submit it at the
     #   end of the turn.
     command_queue = []

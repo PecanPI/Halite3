@@ -1,0 +1,10 @@
+
+Turn 2
+================================================================
+error: failed to decode bot message: "T" (at position 1)
+Last input received was:
+Traceback (most recent call last):
+  File "Mongoose.py", line 81, in <module>
+    surroundings.appends(row)
+AttributeError: 'list' object has no attribute 'appends'
+

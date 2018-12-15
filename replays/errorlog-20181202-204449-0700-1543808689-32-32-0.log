@@ -1,0 +1,10 @@
+
+Turn 1
+================================================================
+error: communication error with bot: Problem writing to pipe, errno was: 0 (No error)
+Last input received was:
+
+    for x in range(-1 * size, size + 1):
+                                       ^
+IndentationError: unindent does not match any outer indentation level
+
